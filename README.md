@@ -45,7 +45,7 @@
 </div>
 <br>
 
-#  🙋 More ang more
+#  🙋 More and more
 
 <!-- GitHub Activity Graph -->
 <table align="center">
